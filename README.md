@@ -3,10 +3,9 @@
 - 홈페이지
   https://www.topmaker.kr/
 
-<img src="./IMG_6129.jpg">
 ![아이터틀 타이젠](./iTurtle_t_hw/IMG_6129.jpg)  
 
-# Team Name : iTurtle Beta
+# Team Name : iTurtle 타이젠
 독거노인이나, 집안에서만 활동할 수 밖에 없는 사회적 약자를 위한 돌보미 로봇 제작
 
 
