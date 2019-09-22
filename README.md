@@ -3,7 +3,7 @@
 - 홈페이지
   https://www.topmaker.kr/
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbbMGaW%2FbtqxEO1LFaC%2Fa88iYEJQheFFZjzcKwyphK%2Fimg.jpg">
+<img src="./IMG_6129.jpg">
   
 
 # Team Name : iTurtle Beta
@@ -22,18 +22,18 @@
 7) 클라우드 응용기술(SmartThings, Nubison, ThingsPark)
 8) 챗봇기술
 
-- 하드웨어 자료 
-  [하드웨어 자료](./iTurtle_t)
-- 소프트웨어 소스
-  [소프트웨어 자료](./iTurtle_t)
+- 하드웨어 자료   
+  [하드웨어 자료 링크](./iTurtle_t_hw)
+- 소프트웨어 소스  
+  [소프트웨어 자료 링크](./iTurtle_t)
 
 
-- 슬랙채널
+- 슬랙채널  
 tizen-iot.slack.com
 
-- 무료 클라우드 IoT 플랫폼
+- 무료 클라우드 IoT 플랫폼  
 https://www.thingspark.kr/
 
 
-- 참고자료
+- 참고자료  
 https://storycompiler.tistory.com/
