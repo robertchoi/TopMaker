@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="org.example.sic" version="1.0.0">
+    <profile name="mobile"/>
+    <service-application appid="org.example.sic" exec="seouliotcamera" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>Seoul Iot Camera</label>
+        <icon>icon.png</icon>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/camera</privilege>
+    </privileges>
+</manifest>
